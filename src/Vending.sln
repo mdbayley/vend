@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingConsole", "VendingConsole\VendingConsole.csproj", "{97B758DE-688B-4DAC-9CA6-1E68EA372553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendOMatic", "VendOMatic\VendOMatic.csproj", "{EA5306A7-35B1-4BBB-8913-B50C8D1CFA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97B758DE-688B-4DAC-9CA6-1E68EA372553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B758DE-688B-4DAC-9CA6-1E68EA372553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B758DE-688B-4DAC-9CA6-1E68EA372553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B758DE-688B-4DAC-9CA6-1E68EA372553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5306A7-35B1-4BBB-8913-B50C8D1CFA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5306A7-35B1-4BBB-8913-B50C8D1CFA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5306A7-35B1-4BBB-8913-B50C8D1CFA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5306A7-35B1-4BBB-8913-B50C8D1CFA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C59C3D2B-8C41-4B5D-9FF6-0FAF541AEBDD}
+	EndGlobalSection
+EndGlobal
